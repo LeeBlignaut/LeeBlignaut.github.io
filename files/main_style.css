@@ -333,7 +333,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
   border: 2px solid rgba(0,0,0,0.3);
   border-radius: 3px;
   overflow: hidden;
-  box-shadow: 0 0 10px #2187e7b3;
+  box-shadow: 0 0 10px #e72c23;
 }
 .bar span{
   height: 5px;
