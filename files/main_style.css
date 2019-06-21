@@ -327,7 +327,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 }
 
 .bar{
-  background: #000000;
+  background: #ffffff;
   display: block;
   height: 2px;
   border: 2px solid rgba(0,0,0,0.3);
