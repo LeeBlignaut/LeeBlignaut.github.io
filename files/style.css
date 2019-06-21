@@ -6,11 +6,6 @@
   list-style: none;
 }
 
-body{
-  background: url(bg.jpg) no-repeat;
-  background-size: cover;
-}
-
 .business-card{
   width: 500px;
   height: 280px;
