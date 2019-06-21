@@ -89,7 +89,7 @@ text-transform: uppercase;
 }
 
 .back{
-  background: rgba(0, 82, 245, 0.56);
+  background: rgba(0, 82, 245, 0.8);
   display: flex;
   align-items: center;
   justify-content: center;
