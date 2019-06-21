@@ -333,12 +333,12 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
   border: 2px solid rgba(0,0,0,0.3);
   border-radius: 3px;
   overflow: hidden;
-  box-shadow: 0 0 10px #e72c23;
+  box-shadow: 0 0 10px #000000;
 }
 .bar span{
   height: 5px;
   float: left;
-  background: #26e723
+  background: #051229
 }
 .Csharp{
 width: 95%
