@@ -341,6 +341,9 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
   background: #051229
 }
 .Csharp{
+  width: 70%
+  }
+.Csharp{
 width: 95%
 }
 .WPF{
