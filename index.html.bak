@@ -169,7 +169,7 @@ var STYLE_PREFIX = 'wsite';
 
 <h2 class="wsite-content-title">About<br />&#8203;Me</h2>
 
-<div class="paragraph">&#8203;<span>I'm a student currently working at Industrial Web Technologies as a Junior Asp.net Developer</span><br /><br /><span>Coding is my passion, in any shape or form. The concept of just taking an idea and making it a reality, whether it is a website or an app</span><br /><br /><span> I'd like to be hired by individuals or businesses that require anything from websites to applications. </span><br />
+<div class="paragraph">&#8203;<span>I'm a student Currently completing a degree in BSc Computing with a major in Software Engineering</span><br /><br /><span>Coding is my passion, in any shape or form. The concept of just taking an idea and making it a reality, whether it is a website or an app</span><br /><br /><span> I'd like to be hired by individuals or businesses that require anything from websites to applications. </span><br />
 <p><a href="/cv">Download My CV</a></p>
 </div>
 
@@ -197,17 +197,17 @@ var STYLE_PREFIX = 'wsite';
 			<div class="wsite-section-elements">
 				<div class="paragraph">
 				<h2 class="wsite-content-title" style="text-align:center;">My Skills</h2>
-<!-- <div class="skills" > -->
-<!-- <p style="text-align:center;">ASP.Net<span class="bar"><span class="ASPNet"></span></span></p> -->
-<!-- <p style="text-align:center;">C#<span class="bar"><span class="Csharp"></span></span></p> -->
-<!-- <p style="text-align:center;">WPF<span class="bar"><span class="WPF"></span></span></p> -->
-<!-- <p style="text-align:center;">PHP<span class="bar"><span class="PHP"></span></span></p> -->
-<!-- <p style="text-align:center;">Java<span class="bar"><span class="Java"></span></span></p> -->
-<!-- <p style="text-align:center;">Javascript<span class="bar"><span class="javascript"></span></span></p> -->
-<!-- <p style="text-align:center;">HTML/HTML 5<span class="bar"><span class="HTML"></span></span></p> -->
-<!-- <p style="text-align:center;">CSS<span class="bar"><span class="CSS"></span></span></p> -->
-<!-- <p style="text-align:center;">SQL<span class="bar"><span class="MYSQL"></span></span></p> -->
-<!-- </div> -->
+<div class="skills" >
+<p style="text-align:center;">ASP.Net<span class="bar"><span class="ASPNet"></span></span></p>
+<p style="text-align:center;">C#<span class="bar"><span class="Csharp"></span></span></p>
+<p style="text-align:center;">WPF<span class="bar"><span class="WPF"></span></span></p>
+<p style="text-align:center;">PHP<span class="bar"><span class="PHP"></span></span></p>
+<p style="text-align:center;">Java<span class="bar"><span class="Java"></span></span></p>
+<p style="text-align:center;">Javascript<span class="bar"><span class="javascript"></span></span></p>
+<p style="text-align:center;">HTML/HTML 5<span class="bar"><span class="HTML"></span></span></p>
+<p style="text-align:center;">CSS<span class="bar"><span class="CSS"></span></span></p>
+<p style="text-align:center;">SQL<span class="bar"><span class="MYSQL"></span></span></p>
+</div>
 </div>
 
 
